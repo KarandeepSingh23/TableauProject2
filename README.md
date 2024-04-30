@@ -33,6 +33,8 @@ Inference: This visualization shows that there is great disparity between the mo
 
 # Question 2
 How have real estate sale prices and assessed values differed across various property types within the top 5 and bottom 5 cities for the last 5 years (2017-2021)? 
+
+
 ![image](https://github.com/21iwellshear/MIST-4610-Project-2/assets/150079987/c3ee4530-06e0-44a7-bd6f-c8eb28c3e248)
 ![image](https://github.com/21iwellshear/MIST-4610-Project-2/assets/150079987/8f116da8-91c7-4a7d-88a1-df9a5818df04)
 ![image](https://github.com/21iwellshear/MIST-4610-Project-2/assets/150079987/6f3d2dc5-1989-4dfa-996d-73d28854e193)
