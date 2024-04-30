@@ -9,6 +9,8 @@
 5. Karandeep Singh @KarandeepSingh23
 # Data Introduction & Explanations
 Our project is based on the "Real Estate Sales 2001-2021 GL" dataset. This data includes a listing of all real estate sales with a sales price of $2,000 or greater that occur between the 1st of October and the 30th of September each year in the state of Connecticut. For each real estate sale, the data included is the town, property address, date of sale, property type, sales price, and property assessment. 
+
+
 ![image](https://github.com/21iwellshear/MIST-4610-Project-2/assets/150079987/47f24226-db48-4a84-8b68-67a51fd3b0f2)
 ![image](https://github.com/21iwellshear/MIST-4610-Project-2/assets/150079987/bdc5600b-6b9a-4695-b678-3b49240e499d)
 \
