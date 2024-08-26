@@ -1,4 +1,4 @@
-# MIST4610-Project-2
+# MIST4610Project2
 # Team name:
 21479 Group 6
 # Team Members:
